@@ -1,0 +1,10 @@
+{
+  "parts": [
+    {
+      "name": "health_check",
+      "hooks": {
+        "expressCreateServer": "ep_health_check/health:expressCreateServer"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "ep_health_check",
+  "version": "0.0.1",
+  "description": "Health check middleware for Etherpad",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alexander-klimov/ep_auth_session_extended.git"
+  },
+  "dependencies": {
+    "@cloudnative/health-connect": "^2.1.0"
+  },
+  "engines": {
+    "node": ">= 8.12"
+  },
+  "author": {
+    "name": "Alexander Klimov"
+  },
+  "bugs": {
+    "url": "https://github.com/alexander-klimov/ep_health_check/issues"
+  },
+  "homepage": "https://github.com/alexander-klimov/ep_health_check",
+  "keywords": [
+    "etherpad",
+    "health",
+    "liveness",
+    "readiness"
+  ]
+}
