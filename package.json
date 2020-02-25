@@ -1,6 +1,6 @@
 {
   "name": "ep_health_check",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Health check middleware for Etherpad",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
