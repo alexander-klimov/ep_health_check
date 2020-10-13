@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/alexander-klimov/ep_auth_session_extended.git"
+    "url": "git://github.com/alexander-klimov/ep_health_check.git"
   },
   "dependencies": {
     "@cloudnative/health-connect": "^2.1.0"
